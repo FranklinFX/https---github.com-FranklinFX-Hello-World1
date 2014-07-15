@@ -10,4 +10,8 @@ public class TestApp {
 
 	}
 
+	void display(){
+		System.out.println(" I am from TestApp");
+		
+	}
 }
